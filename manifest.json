@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Live DOM Voice Reader",
+  "version": "1.0.0",
+  "description": "Read the main content of any webpage aloud using your browser's built-in speech synthesis.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
